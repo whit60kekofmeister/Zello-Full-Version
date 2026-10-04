@@ -235,4 +235,4 @@ This repository serves as the official landing page for Zello. The software is d
 **Get the most recent version of Zello today!**
 
 ---
-**Last updated:** 2026-10-04 18:58:03 UTC
+**Last updated:** 2026-10-04 22:14:34 UTC
